@@ -1,5 +1,9 @@
 ***WARNING 08/01/2026: Please note that this project is not currently being actively maintained. Some functions may no longer work.***
 
+Next scheduled review date: 08/01/2027
+QA status: Package is currently failing some tests.
+
+
 # fingertips_py
 
 This is a python package to interact with OHID's 
