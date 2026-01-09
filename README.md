@@ -32,7 +32,7 @@ pip install fingertips_py
 Or it can be compiled from source (still requires pip):
 
 ```
-pip install git+https://github.com/PublicHealthEngland/PHDS_fingertips_py.git
+pip install git+https://github.com/dhsc-govuk/fingertips_py.git
 ```
 
 ## Usage
