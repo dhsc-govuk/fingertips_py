@@ -38,7 +38,7 @@ Or it can be compiled from source (still requires pip):
 
 .. code-block::
   
-  pip install git+https://github.com/ukhsa-collaboration/PHDS_fingertips_py.git
+  pip install git+https://github.com/dhsc-govuk/fingertips_py.git
 
 
 Usage
