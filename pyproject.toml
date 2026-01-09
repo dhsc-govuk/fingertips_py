@@ -48,11 +48,11 @@ keywords = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ukhsa-collaboration/PHDS_fingertips_py?tab=readme-ov-file"
+Homepage = "https://github.com/dhsc-govuk/fingertips_py?tab=readme-ov-file"
 Documentation = "https://fingertips-py.readthedocs.io/en/latest/"
-Repository = "https://github.com/ukhsa-collaboration/PHDS_fingertips_py"
-Issues = "https://github.com/ukhsa-collaboration/PHDS_fingertips_py/issues"
-Changelog = "https://github.com/ukhsa-collaboration/PHDS_fingertips_py/blob/master/CHANGELOG.md"
+Repository = "https://github.com/dhsc-govuk/fingertips_py"
+Issues = "https://github.com/dhsc-govuk/fingertips_py/issues"
+Changelog = "https://github.com/dhsc-govuk/fingertips_py/blob/master/CHANGELOG.md"
 
 [tool.setuptools.dynamic]
 version = {attr = "fingertips_py.__version__"}
